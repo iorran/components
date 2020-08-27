@@ -28,6 +28,9 @@
     "app-main-e2e": {
       "tags": [],
       "implicitDependencies": ["app-main"]
+    },
+    "components": {
+      "tags": []
     }
   }
 }
